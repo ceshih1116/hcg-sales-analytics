@@ -12,7 +12,7 @@ To uncover key insights on store profitability and sales efficiency, enabling be
 - **Environment:** Jupyter Notebook  
 - **Visualization:** Monthly sales dashboards and store performance charts  
 
-## Files
+### Files
 - data/hcg_sales_sample.csv — synthetic sales data
 - notebooks/HCG_sales_analysis.ipynb — analysis notebook
 - visuals/monthly_sales_trend_sample.png — chart
