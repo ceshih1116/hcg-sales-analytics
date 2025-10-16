@@ -24,5 +24,4 @@ To uncover key insights on store profitability and sales efficiency, enabling be
 - Automated monthly KPI reporting, reducing manual reporting time by **60%**  
 
 ### **Business Impact**
-The analysis framework demonstrates how data analytics can optimize operational efficiency and decision-making in a retail context —  
-skills directly applicable to business and data analytics roles at companies like **Tesla** and **TikTok**.
+The analysis framework demonstrates how data analytics can optimize operational efficiency and decision-making in a retail context skills directly applicable to business and data analytics roles at companies.
