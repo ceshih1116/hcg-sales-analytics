@@ -6,7 +6,7 @@ Using **Python (Pandas)** and **SQL (SQLite)**, the analysis evaluates store per
 ### **Objective**
 To uncover key insights on store profitability and sales efficiency, enabling better pricing, inventory, and product strategy decisions.
 
-### ⚙️ **Tools & Technologies**
+### **Tools & Technologies**
 - **Python:** Pandas, Matplotlib, Seaborn  
 - **SQL:** SQLite for relational data storage and KPI tracking  
 - **Environment:** Jupyter Notebook  
